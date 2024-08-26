@@ -16,6 +16,6 @@
     <h3><a href="./birthday-invite.html">Birthday Invite Project</a></h3>
     <img src="./birthday-invite.png " height="200" />
     <hr />
-    <h4><a href="web development/4.3 HTML Porfolio Project/public/contact.html">Contact me</a> <a href="web development/4.3 HTML Porfolio Project/public/about.html">About me </a></h4>
+    <h4><a href="./contact.html">Contact me</a> <a href="./about.html">About me </a></h4>
 </body>
 </html>
