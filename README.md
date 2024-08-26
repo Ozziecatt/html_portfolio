@@ -13,8 +13,8 @@
     <h3><a href="./movie-ranking.html">Movie Ranking Project</a></h3>
     <img src="./movie-ranking.png" height="200" />
     <br />
-    <h3><a href="web development/4.3 HTML Porfolio Project/public/birthday-invite.html">Birthday Invite Project</a></h3>
-    <img src="./assets/images/birthday-invite.png " height="200" />
+    <h3><a href="./birthday-invite.html">Birthday Invite Project</a></h3>
+    <img src="./birthday-invite.png " height="200" />
     <hr />
     <h4><a href="web development/4.3 HTML Porfolio Project/public/contact.html">Contact me</a> <a href="web development/4.3 HTML Porfolio Project/public/about.html">About me </a></h4>
 </body>
